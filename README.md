@@ -28,4 +28,4 @@ Fireworks: Click anywhere on the screen to trigger fireworks animations.
 
 ##Live Demo
 
-[Live Link](https://roobiwebdev.github.io/Happy-Birthday-Text-animation/)
+[Live Link](https://roobiwebdev.github.io/HBD/)
